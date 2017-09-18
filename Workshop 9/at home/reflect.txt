@@ -1,0 +1,10 @@
+1 - The possible return value is an integer, zero.
+This return valure represents that this function
+can only return integers.As this fuction
+is only used to read data from file so it returns 0;
+
+2- r - used when we need to read a file
+w - is used to write a file.A new one is created
+if file does not exist
+a+ - it opens the file for reading and writing.It appends
+new data to the file if file already exists.

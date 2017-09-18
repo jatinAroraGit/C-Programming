@@ -1,0 +1,14 @@
+*Name-Jatin Arora(136897162)*
+
+1- A function is a block of statements that perform a specific task.
+Every C program has atleast one fucnction called main.There are 
+pre defined functons and user defined functions.
+Functions make the program modular and program organized.With functions
+program is easy to manage and debug.
+
+2-Using functions like addPositive and subtractPositve made program modular by seperating parts which had airthmetic calculations.
+Both these were called couple of times while applying discount.It made the program easy
+as we have to type only one command to carry out airthmetic operatins on different
+operands each time.
+
+3-Parameter is a variable that holds data received from the caller function and  return type sends the data to caller function.

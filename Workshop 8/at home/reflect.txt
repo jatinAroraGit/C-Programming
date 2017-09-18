@@ -1,0 +1,14 @@
+//NAME-Jatin Arora(136897162)
+1- When passing an array to a function it is by address
+The keyword const is used on pointer parameters.It allows parameter passing without 
+copying anything but an address, but protects against changing the data.
+
+2-When a function contains a parameter which is an array an additional variable of primitive data type 
+which specifies or contains the value of size of that array.It is always passed alongside the array.
+Example - in function-
+void checkPrice(const struct Book book[],const int size);
+
+const struct Book book[] is an array of size eqaul to the value passed in const int size.
+
+3-The "const" used in front of array parameters makes it work in arrays of exactly the size defined in
+ the declaration and it protects it against any change of data.

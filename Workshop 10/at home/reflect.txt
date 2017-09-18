@@ -1,0 +1,18 @@
+//Name - Jatin Arora (136897162) Workshop 10 HOME REFLECT
+---------------------------------------------------------
+1-	String is a collection of characters whereas Char Array is a set of elements. A string will end will null but a char array will not. It becomes a problem when a Char Array is used to store text greater than the size of array whereas there is no such problem in a string.
+2-	By using scanf(“%10s”, [char array variable]); we can ensure that no more than 10 bytes of data is entered.
+3-	The purpose of strcmp is to compare strings provided to it and returns 0 if strings are same and 1 if they are not. In this case, we have –
+strcmp(const char*, const char*)
+Both variables are same so it returns 0, as they are same variables being compared.
+4-	We will need 6 bytes to store “HelloC” in memory.
+5-	The most diificult for me in semester was FILE I/O and to be specific was the topics involving EOF.
+6-	Yes, quizzes definitely helped me to test myself each week and see where I stand.
+7-	The course was well structured which clearly made me know what we have to do and when,
+8-	This course when came to teaching and learning was pathetic.The professor was never on time, did not explained anything and himself lacked knowledge.Overall it was my worst experience in a course.
+9-	I would like to involve a section which includes a lot of example programs about each topic so we can use it as a reference to learn.
+10-	C
+11-	The workshops were tiring but they were enjoyable. It was the best way to test my programming skills and see how much of practical knowledge I have gained.
+12-	LAB A activities were fun to do as it made us learn something extra.
+13-	Lab A activities are beneficial as it makes you learn how to think as a programmer . It helped us to plan our programs before starting them and understand how a code works.
+14-	B.

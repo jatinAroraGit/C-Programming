@@ -1,0 +1,23 @@
+1-Passing values froma a function through its parameter enables us to pass more than one value but when we can only pass one value using return.
+2-Dereferencing is to access or manipulate data contained in a memory location pointed to by a pointer.
+In this program deferncing was done inside printf statement which is shown below.
+
+case 1:
+		{
+			printf("\nPhone Numbers\n==============\n ");
+			for (int n = 0; n < SIZE; n++)
+			{
+				if (phonenumbers[n] != 0LL)
+				{
+
+					decompose(phonenumbers[n], &area, &prefix, &lineno);
+					printf("(%d)-%d-%d\n", area, prefix, lineno);
+				}
+
+
+			}
+			printf("\n");
+			break;
+		}
+
+3-A pointer is a variable which instead of storing the value stores the memory address of another variable.

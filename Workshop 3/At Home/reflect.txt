@@ -1,0 +1,19 @@
+Answer 1 -
+
+Types of loops in C are-
+for
+while
+do while
+
+Answer 2- 
+Do-while loops will execute its body atleast once even if condition is not satisfied.
+While loop will not at all execute if the condition is wrong.
+
+Answer 3-
+The conditional selection construct is shorthand for the alternative path construct.
+This ternary expression combines a condition and two sub-expressions using the ? : operator.
+
+SYNTAX-
+ condition ? operand : operand
+If the condition is true, the expression evaluates to the operand between ? and :.
+  If the condition is false, the expression evaluates to the operand following :. 

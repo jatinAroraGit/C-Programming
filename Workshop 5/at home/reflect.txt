@@ -1,0 +1,4 @@
+1. Parallel arrays are harder to manage in comparison to strut arrays.Structured arrays can be transmitted to ther functions easily.
+Using Structured arrays keeps the program clean and  less clumsy rather than writnig and declaring seperate parallel arrays.
+
+2. This is defined in header part so that it can be shared and transmitted over different source files or functions and putting it to use in variety of cases.
